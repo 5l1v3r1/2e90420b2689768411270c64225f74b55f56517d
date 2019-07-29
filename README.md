@@ -1,0 +1,4 @@
+# 2e90420b2689768411270c64225f74b55f56517d
+xls malware sample
+
+https://www.virustotal.com/gui/file/950841a89bb1d56e69eac5d320db7f76d74be1f2a53100194900f5dbbe21fe2b/details
